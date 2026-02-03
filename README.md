@@ -2,6 +2,11 @@
 
 This project was designed and implemented using Microsoft Fabric, leveraging both structured and unstructured sample data. The solution follows the Medallion Architecture approach to ensure scalable, organized, and high-quality data processing.
 
+**Business Problem** : A mid- sized retail business “Shopping Mart” is experiencing significant competition. They need deeper insights into customer behavior ,sales trend, inventory management , online engagement and product sentiments to strategically boost revenues and enhance customer satisfaction.
+
+**Objective**: utilized structured (transactional and inventory) and unstructured data (social media, online reviews, web logs) to build a unified  analytics solution that delivers actionable insights and tracks key business KPIs
+
+
 **Architecture Flow**
 
 1.	Data Ingestion - API (Structured and Unstructured)
@@ -58,6 +63,10 @@ This project was designed and implemented using Microsoft Fabric, leveraging bot
 
 **Visulizations**
 <img width="1275" height="712" alt="image" src="https://github.com/user-attachments/assets/065e7856-ebce-4972-b0a3-bcc02a730653" />
+
 <img width="1273" height="710" alt="image" src="https://github.com/user-attachments/assets/9450fb7d-d0f2-4528-ad30-87c576bfa235" />
+
+**Master Pipeline**
+<img width="1833" height="707" alt="image" src="https://github.com/user-attachments/assets/171c160c-ecff-42a3-87c6-c5fefa2dcaa5" />
 
 
