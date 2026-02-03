@@ -76,4 +76,6 @@ This project was designed and implemented using Microsoft Fabric, leveraging bot
 <img width="1895" height="753" alt="image" src="https://github.com/user-attachments/assets/fd44b9e2-8bfc-4f83-ab68-f1f76aff82d9" />
 
 **Deployment Pipeline**
+<img width="1832" height="596" alt="image" src="https://github.com/user-attachments/assets/e3eb976a-3cda-4ef9-b79f-f8261e30fe47" />
+
 
