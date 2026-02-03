@@ -69,4 +69,11 @@ This project was designed and implemented using Microsoft Fabric, leveraging bot
 **Master Pipeline**
 <img width="1833" height="707" alt="image" src="https://github.com/user-attachments/assets/171c160c-ecff-42a3-87c6-c5fefa2dcaa5" />
 
+**Monitor**
+<img width="1827" height="848" alt="image" src="https://github.com/user-attachments/assets/437797c6-0095-460c-97af-48e868f2778d" />
+
+**Onelake**
+<img width="1895" height="753" alt="image" src="https://github.com/user-attachments/assets/fd44b9e2-8bfc-4f83-ab68-f1f76aff82d9" />
+
+**Deployment Pipeline**
 
